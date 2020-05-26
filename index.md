@@ -21,17 +21,38 @@ Syntax highlighted code block
 2019.07-now CTO in Hangzhou Skyko Intelligence & Technology Co.,LTD.
 
 # Works and Publications
-##陈鹏. 基于加权最小范数法的冗余机械臂控制研究[D]. 浙江大学, 2016.
 
-##P. Chen, C. Shan, J. Xiang and W. Wei, "Moving obstacle avoidance for redundant manipulator via weighted least norm method," The 27th Chinese Control and Decision Conference (2015 CCDC), Qingdao, 2015, pp. 6181-6186, doi: 10.1109/CCDC.2015.7161923.
+·陈鹏. 基于加权最小范数法的冗余机械臂控制研究[D]. 浙江大学, 2016.
 
-##P. Chen, J. Xiang and W. Wei. A Unified Weighted Least Norm Method for Redundant Manipulator Control[J]. International Journal of Advanced Robotic Systems, 2016, 13(1).
+·P. Chen, C. Shan, J. Xiang and W. Wei, "Moving obstacle avoidance for redundant manipulator via weighted least norm method," The 27th Chinese Control and Decision Conference (2015 CCDC), Qingdao, 2015, pp. 6181-6186, doi: 10.1109/CCDC.2015.7161923.
 
-##P. Chen, J. Xiang and W. Wei. Torque limit constrained control of redundant manipulator based on GWLN method[J]. Journal of Zhejiang University, 2017.
+·P. Chen, J. Xiang and W. Wei. A Unified Weighted Least Norm Method for Redundant Manipulator Control[J]. International Journal of Advanced Robotic Systems, 2016, 13(1).
 
-##P. Chen, J. Xiang, L. Zhu, Z. Li, L. Chen and Q. Li, "Torque Limitation Control of Industrial Manipulators Based on General Weighted Least Norm method," 2019 Chinese Control Conference (CCC), Guangzhou, China, 2019, pp. 4613-4619, doi: 10.23919/ChiCC.2019.8866202.
+·P. Chen, J. Xiang and W. Wei. Torque limit constrained control of redundant manipulator based on GWLN method[J]. Journal of Zhejiang University, 2017.
 
-##钟琮玮, 项基, 韦巍,等. 基于扰动观测器的机械手碰撞检测与安全响应%Collision detection and safe reaction of manipulator based on disturbance observer[J]. 浙江大学学报(工学版), 2012, 046(006):1115-1121.
+·P. Chen, J. Xiang, L. Zhu, Z. Li, L. Chen and Q. Li, "Torque Limitation Control of Industrial Manipulators Based on General Weighted Least Norm method," 2019 Chinese Control Conference (CCC), Guangzhou, China, 2019, pp. 4613-4619, doi: 10.23919/ChiCC.2019.8866202.
+
+·钟琮玮, 项基, 韦巍,等. 基于扰动观测器的机械手碰撞检测与安全响应%Collision detection and safe reaction of manipulator based on disturbance observer[J]. 浙江大学学报(工学版), 2012, 046(006):1115-1121.
+
+
+# Projects
+
+2008.07-2011.07 国家863计划重点项目"仿人机器人高性能单元与系统"子课题"快速灵巧手臂"(2008AA042602) 
+                ·课题主要参与者
+                ·冗余机械臂的控制算法研究
+                ·多线程环境下基于CAN总线的机器人控制程序开发
+                ·针对任务进行控制优化，提升了机械臂的动态性能
+                ·实现了机械臂与乒乓选手的人机对打
+                [乒乓机器人效果](http://v.youku.com/v_show/id_XMTM0MjEyNjcwNA==.html)
+                
+2011.01-2013.07 2011年度浙江省重大科技专项计划项目"休闲用品行业自动化焊接设备共性技术的应用研究和产业化"
+                ·课题主要参与者
+                ·基于PMAC的运动控制系统搭建
+                ·针对T型管焊接工艺过程，设计了基于扩展最小二乘方法的机器人控制算法
+                ·提出了基于约束条件的机器人简易标定算法，提高了机器人系统控制精度
+                
+                
+
 
 # Header 1
 ## Header 2
