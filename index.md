@@ -10,6 +10,16 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+# Self Introduction
+1986.01         Hello World
+2004.09-2008.06 Received Bachelor's degree in Automation from Electrical Engineering College Zhejiang University
+2008.09-2016.06 Received Ph.D in Control Theory and Control Engineering from Electrical Engineering College Zhejiang University
+2016.07-now     Post doctor in Motor and Electrical appliances in Electrical Engineering College Zhejiang University
+
+2016.07-2017.07 Software Engineer in Institute of Hangzhou SIASUN Robot & Automation Co.,LTD.
+2017.07-2019.07 Software Manager in Institute of Hangzhou SIASUN Robot & Automation Co.,LTD.
+2019.07-now CTO in Hangzhou Skyko Intelligence & Technology Co.,LTD.
+
 
 # Header 1
 ## Header 2
