@@ -1,15 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/tangguotongling/tangguotongling.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 # Master Branch
 1986.01         Hello World
 2004.09-2008.06 Received Bachelor's degree in Automation from Electrical Engineering College Zhejiang University
@@ -50,6 +38,20 @@ Syntax highlighted code block
                 ·基于PMAC的运动控制系统搭建
                 ·针对T型管焊接工艺过程，设计了基于扩展最小二乘方法的机器人控制算法
                 ·提出了基于约束条件的机器人简易标定算法，提高了机器人系统控制精度
+
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/tangguotongling/tangguotongling.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
                 
                 
 
