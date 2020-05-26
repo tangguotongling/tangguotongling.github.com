@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-# Self Introduction
+# Master Branch
 1986.01         Hello World
 2004.09-2008.06 Received Bachelor's degree in Automation from Electrical Engineering College Zhejiang University
 2008.09-2016.06 Received Ph.D in Control Theory and Control Engineering from Electrical Engineering College Zhejiang University
@@ -20,6 +20,18 @@ Syntax highlighted code block
 2017.07-2019.07 Software Manager in Institute of Hangzhou SIASUN Robot & Automation Co.,LTD.
 2019.07-now CTO in Hangzhou Skyko Intelligence & Technology Co.,LTD.
 
+# Works and Publications
+##陈鹏. 基于加权最小范数法的冗余机械臂控制研究[D]. 浙江大学, 2016.
+
+##P. Chen, C. Shan, J. Xiang and W. Wei, "Moving obstacle avoidance for redundant manipulator via weighted least norm method," The 27th Chinese Control and Decision Conference (2015 CCDC), Qingdao, 2015, pp. 6181-6186, doi: 10.1109/CCDC.2015.7161923.
+
+##P. Chen, J. Xiang and W. Wei. A Unified Weighted Least Norm Method for Redundant Manipulator Control[J]. International Journal of Advanced Robotic Systems, 2016, 13(1).
+
+##P. Chen, J. Xiang and W. Wei. Torque limit constrained control of redundant manipulator based on GWLN method[J]. Journal of Zhejiang University, 2017.
+
+##P. Chen, J. Xiang, L. Zhu, Z. Li, L. Chen and Q. Li, "Torque Limitation Control of Industrial Manipulators Based on General Weighted Least Norm method," 2019 Chinese Control Conference (CCC), Guangzhou, China, 2019, pp. 4613-4619, doi: 10.23919/ChiCC.2019.8866202.
+
+##钟琮玮, 项基, 韦巍,等. 基于扰动观测器的机械手碰撞检测与安全响应%Collision detection and safe reaction of manipulator based on disturbance observer[J]. 浙江大学学报(工学版), 2012, 046(006):1115-1121.
 
 # Header 1
 ## Header 2
