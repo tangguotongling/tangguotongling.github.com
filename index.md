@@ -8,7 +8,7 @@
 
 2016.07-2017.07 Software Engineer in Institute of Hangzhou SIASUN Robot & Automation Co.,LTD.
 2017.07-2019.07 Software Manager in Institute of Hangzhou SIASUN Robot & Automation Co.,LTD.
-2019.07-now CTO in Hangzhou Skyko Intelligence & Technology Co.,LTD.
+2019.07-now     CTO in Hangzhou Skyko Intelligence & Technology Co.,LTD.
 ```
 # Publications
 ```
