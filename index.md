@@ -10,7 +10,7 @@
 2017.07-2019.07 Software Manager in Institute of Hangzhou SIASUN Robot & Automation Co.,LTD.
 2019.07-now CTO in Hangzhou Skyko Intelligence & Technology Co.,LTD.
 ```
-# Works and Publications
+# Publications
 ```
 ·陈鹏. 基于加权最小范数法的冗余机械臂控制研究[D]. 浙江大学, 2016.
 
@@ -35,6 +35,20 @@
  总线结构伺服系统控制
  MATLAB科学计算仿真
  机器人运动控制算法设计
+
+```
+
+# Courses
+
+```markdown
+ Classical Control Theory
+ Modern Control Theory
+ Nonlinear Control Theory
+ Optimal Control
+ Adaptive Control
+ Intelligent Control
+ Pattern Recognition
+ Robotics
 ```
 
 # Projects
