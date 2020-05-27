@@ -28,13 +28,14 @@
 # Skills
 
 ```markdown
- C面向过程程序设计
- C++面向对象程序设计
- Windows环境下多线程程序设计
- Linux多线程程序设计
- 总线结构伺服系统控制
- MATLAB科学计算仿真
- 机器人运动控制算法设计
+ C Programming
+ C++ Object Oriented Programming
+ Win32 Multithread API
+ Linux POSIX Thread programming
+ Filed Bus based Servo System Development
+ MATLAB Simulation
+ Robotic Control Algorithm
+ LaTeX Document Construction
 
 ```
 
