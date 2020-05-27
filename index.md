@@ -25,13 +25,16 @@
 ·钟琮玮, 项基, 韦巍,等. 基于扰动观测器的机械手碰撞检测与安全响应%Collision detection and safe reaction of manipulator based on disturbance observer[J]. 浙江大学学报(工学版), 2012, 046(006):1115-1121.
 ```
 
-#Skills
+# Skills
 
 ```markdown
- MATLAB科学计算仿真
+ C面向过程程序设计
  C++面向对象程序设计
  Windows环境下多线程程序设计
+ Linux多线程程序设计
  总线结构伺服系统控制
+ MATLAB科学计算仿真
+ 机器人运动控制算法设计
 ```
 
 # Projects
