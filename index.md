@@ -107,30 +107,40 @@
 
 ```markdown                
 2008.07-2011.07 
-·7 DoF 
-·"多自由度系统位置与姿态过程控制计量关键技术研究"
-·项目骨干
-·负责多自由度系统校准算法研究
-·软件接口开发
-```
-
-
-```markdown                
-2018.07-2019.07 
-·2018国家质量基础的共性技术研究与应用重点专项
-·"多自由度系统位置与姿态过程控制计量关键技术研究"
-·项目骨干
-·负责多自由度系统校准算法研究
-·软件接口开发
+·7 Dof Redundant Manipulator
+·Maxon DC Motor + Copley Servo Amplifier
+·ZLG CAN Bus
+·Windows Multi-Threads
+·Optimal Control
+·Collision Avoidance
 ```
 
 ```markdown                
-2018.07-2019.07 
-·2018国家质量基础的共性技术研究与应用重点专项
-·"多自由度系统位置与姿态过程控制计量关键技术研究"
-·项目骨干
-·负责多自由度系统校准算法研究
-·软件接口开发
+2011.01-2013.07 
+·Dual Manipulator Welding System (3P2R+1ER)×2
+·Fuji AC Motor + PMAC Motion Control Card
+·Saddle Line Welding
+·Optimal Control
+```
+
+```markdown                
+2016.07-2019.07 
+·6 Dof Industrial Manipulator Controller
+·EtherCAT Bus
+·RealTime Linux OS
+·Dedicated Offline Programming Language
+·Pad based Teach Box
+```
+
+```markdown                
+2019.07-now 
+·Motion Controller
+·EtherCAT Bus
+·5G Modules Optional
+·RealTime Linux OS
+·Compatible with 1-9 axis manipulators/ AGV
+·Parallel Control of 8 devices
+·Dedicated Offline Programming Language
 ```
 
 # Honors
