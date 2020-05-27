@@ -1,14 +1,14 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <h1>Chen Peng</h1>
+      <p><b>Ph.D</b></p>
+      <p><b>Zhejiang University Electrical Engineering College</b></p>
+      <p><b>E-Mail: cshmilyc@live.cn</b></p>
+      <p><b>Address:Room 203, YanXiang Tech Building, No.333 JiangHong Road, Binjiang District .Hangzhou，邮编×××</b></p>
     </td>
     <td width="25%">
-      <img src="/tongling.jpg" width="100%">      % 插入证件照代码
+      <img src="/tongling.jpg" width="100%">
     </td>
   </tr>
 </table>
