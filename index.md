@@ -28,17 +28,17 @@
 ```
 # Publications
 ```
-·陈鹏. 基于加权最小范数法的冗余机械臂控制研究[D]. 浙江大学, 2016.
+·P. Chen. Research on Redundant Manipulator Control via Weighted Least Norm Method[D]. Zhejiang University, 2016.
 
 ·P. Chen, C. Shan, J. Xiang and W. Wei, "Moving obstacle avoidance for redundant manipulator via weighted least norm method," The 27th Chinese Control and Decision Conference (2015 CCDC), Qingdao, 2015, pp. 6181-6186, doi: 10.1109/CCDC.2015.7161923.
 
 ·P. Chen, J. Xiang and W. Wei. A Unified Weighted Least Norm Method for Redundant Manipulator Control[J]. International Journal of Advanced Robotic Systems, 2016, 13(1).
 
-·P. Chen, J. Xiang and W. Wei. Torque limit constrained control of redundant manipulator based on GWLN method[J]. Journal of Zhejiang University, 2017.
+·P. Chen, J. Xiang and W. Wei. Torque limit constrained control of redundant manipulator based on GWLN method[J]. Journal of Zhejiang University(Engineering Science Edition), 2017.
 
 ·P. Chen, J. Xiang, L. Zhu, Z. Li, L. Chen and Q. Li, "Torque Limitation Control of Industrial Manipulators Based on General Weighted Least Norm method," 2019 Chinese Control Conference (CCC), Guangzhou, China, 2019, pp. 4613-4619, doi: 10.23919/ChiCC.2019.8866202.
 
-·钟琮玮, 项基, 韦巍,等. 基于扰动观测器的机械手碰撞检测与安全响应%Collision detection and safe reaction of manipulator based on disturbance observer[J]. 浙江大学学报(工学版), 2012, 046(006):1115-1121.
+·C.-W. Zhong, J. Xiang, W. Wei, Y.-H. Zhang, P. Chen. Collision detection and safe reaction of manipulator based on disturbance observer[J]. Journal of Zhejiang University(Engineering Science Edition), 2012, 046(006):1115-1121.
 ```
 
 # Skills
