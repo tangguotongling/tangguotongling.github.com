@@ -3,7 +3,9 @@
     <td width="75%">
       <h1>Chen Peng</h1>
       <p><b>Ph.D</b></p>
-      <p><b>Zhejiang University Electrical Engineering College</b></p>
+      <p><b>from Zhejiang University Electrical Engineering College</b></p>
+      <p><b>CTO</b></p>
+      <p><b>from Hangzhou Skyko Intellegent & Technology Co.Ltd,.</b></p>
       <p><b>E-Mail: cshmilyc@live.cn</b></p>
       <p><b>Address:Room 203, YanXiang Tech Building, No.333 JiangHong Road, Binjiang District .Hangzhou</b></p>
       <p><b>Postcode: 310000</b></p>
@@ -126,7 +128,7 @@
 2008.07-2011.07 
 ·7 Dof Redundant Manipulator
 ·Maxon DC Motor + Copley Servo Amplifier
-·ZLG CAN Bus
+·4 Channel ZLG CAN Bus 
 ·Windows Multi-Threads
 ·Optimal Control
 ·Collision Avoidance
@@ -141,8 +143,8 @@
 ```
 
 ```markdown                
-2016.07-2019.07 
-·6 Dof Industrial Manipulator Controller
+##6 Dof Industrial Manipulator Controller
+·2016.07-2019.07 
 ·EtherCAT Bus
 ·RealTime Linux OS
 ·Dedicated Offline Programming Language
