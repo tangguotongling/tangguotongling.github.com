@@ -131,37 +131,33 @@
 ```
 
 # Products
-
+##7 Dof Redundant Manipulator
 ```markdown                
-2008.07-2011.07 
-·7 Dof Redundant Manipulator
+·2008.07-2011.07 
 ·Maxon DC Motor + Copley Servo Amplifier
 ·4 Channel ZLG CAN Bus 
 ·Windows Multi-Threads
 ·Optimal Control
 ·Collision Avoidance
 ```
-
+##Dual Manipulator Welding System (3P2R+1ER)×2
 ```markdown                
-2011.01-2013.07 
-·Dual Manipulator Welding System (3P2R+1ER)×2
+·2011.01-2013.07 
 ·Fuji AC Motor + PMAC Motion Control Card
 ·Saddle Line Welding
 ·Optimal Control
 ```
-
-```markdown                
 ##6 Dof Industrial Manipulator Controller
+```markdown                
 ·2016.07-2019.07 
 ·EtherCAT Bus
 ·RealTime Linux OS
 ·Dedicated Offline Programming Language
 ·Pad based Teach Box
 ```
-
+##Motion Controller
 ```markdown                
-2019.07-now 
-·Motion Controller
+·2019.07-now 
 ·EtherCAT Bus
 ·5G Modules Optional
 ·RealTime Linux OS
