@@ -131,7 +131,7 @@
 ```
 
 # Products
-##7 Dof Redundant Manipulator
+## 7 Dof Redundant Manipulator
 ```markdown                
 ·2008.07-2011.07 
 ·Maxon DC Motor + Copley Servo Amplifier
@@ -140,14 +140,14 @@
 ·Optimal Control
 ·Collision Avoidance
 ```
-##Dual Manipulator Welding System (3P2R+1ER)×2
+## Dual Manipulator Welding System (3P2R+1ER)×2
 ```markdown                
 ·2011.01-2013.07 
 ·Fuji AC Motor + PMAC Motion Control Card
 ·Saddle Line Welding
 ·Optimal Control
 ```
-##6 Dof Industrial Manipulator Controller
+## 6 Dof Industrial Manipulator Controller
 ```markdown                
 ·2016.07-2019.07 
 ·EtherCAT Bus
@@ -155,7 +155,7 @@
 ·Dedicated Offline Programming Language
 ·Pad based Teach Box
 ```
-##Motion Controller
+## Motion Controller
 ```markdown                
 ·2019.07-now 
 ·EtherCAT Bus
