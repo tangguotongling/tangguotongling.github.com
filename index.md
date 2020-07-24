@@ -6,6 +6,8 @@
       <p><b>from Zhejiang University Electrical Engineering College</b></p>
       <p><b>CTO</b></p>
       <p><b>from Hangzhou Skyko Intellegent & Technology Co.Ltd,.</b></p>
+      <p><b>Prof.</b></p>
+      <p><b>from Zhejiang University of Technology,.</b></p>
       <p><b>E-Mail: cshmilyc@live.cn</b></p>
       <p><b>Address:Room 203, YanXiang Tech Building, No.333 JiangHong Road, Binjiang District .Hangzhou</b></p>
       <p><b>Postcode: 310000</b></p>
@@ -82,11 +84,11 @@
 
 ```markdown
 2008.07-2011.07 
-国家863计划重点项目
+National High-tech R&D Program (863 Program)
 "仿人机器人高性能单元与系统"子课题"快速灵巧手臂"(2008AA042602) 
 ·课题主要参与者
-·冗余机械臂的控制算法研究
-·多线程环境下基于CAN总线的机器人控制程序开发
+·Optimal Control Algorithm of 7 Dof Redundant Manipulator
+·CAB Bus based Control Program in Win32 Multi-Threads Environment
 ·针对任务进行控制优化，提升了机械臂的动态性能
 ·实现了机械臂与乒乓选手的人机对打
 ·[乒乓机器人效果](http://v.youku.com/v_show/id_XMTM0MjEyNjcwNA==.html)
@@ -126,8 +128,8 @@
 ·2018国家质量基础的共性技术研究与应用重点专项
 ·"多自由度系统位置与姿态过程控制计量关键技术研究"
 ·项目骨干
-·负责多自由度系统校准算法研究
-·软件接口开发
+·Calibration Algorithm of Multi-DOF System Design
+·Software Interface Design
 ```
 
 # Products
