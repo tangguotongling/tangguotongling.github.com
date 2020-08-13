@@ -49,7 +49,7 @@
 
 ```markdown
  Advanced Robot Control
- Industial Controller Development
+ Industial Software Development
 
 ```
 
@@ -85,49 +85,51 @@
 ```markdown
 2008.07-2011.07 
 National High-tech R&D Program (863 Program)
-"仿人机器人高性能单元与系统"子课题"快速灵巧手臂"(2008AA042602) 
-·课题主要参与者
+"Humanoid Robot High Performance Unit and System" Sub-topic "flexible manipulator"(2008AA042602) 
+·Major Participant
 ·Optimal Control Algorithm of 7 Dof Redundant Manipulator
 ·CAB Bus based Control Program in Win32 Multi-Threads Environment
-·针对任务进行控制优化，提升了机械臂的动态性能
-·实现了机械臂与乒乓选手的人机对打
-·[乒乓机器人效果](http://v.youku.com/v_show/id_XMTM0MjEyNjcwNA==.html)
+·Optimize the Hit task requirement
+·Set Point on Table Hit Back rate 75% for circle with radius 20 cm
+·Humanoid Style of Forehand/Backhand
+·25 round with humanoid 
+·[Show](http://v.youku.com/v_show/id_XMTM0MjEyNjcwNA==.html)
 ```
                 
 ```markdown                
 2011.01-2013.07 
-·2011年度浙江省重大科技专项计划项目
-·"休闲用品行业自动化焊接设备共性技术的应用研究和产业化"
-·课题主要参与者
-·基于PMAC的运动控制系统搭建
-·针对T型管焊接工艺过程，设计了基于扩展最小二乘方法的机器人控制算法
-·提出了基于约束条件的机器人简易标定算法，提高了机器人系统控制精度
+·2011 Major science and technology projects of zhejiang province 
+·Application research and industrialization of common technology of automatic welding equipment in leisure products industry
+·Major Participant
+·PMAC based Motion Control System
+·GWLN based trajectory smooth for TKY type 
+·Fast Calibration for Manipulation in Workshop and Increase the precision to 0.5mm
 ```
 
 ```markdown                
 2017.12-2019.07 
-·2017国家智能机器人专项
-·"面向工业机器人生产线的工艺规划仿真与离线编程软件"
-·研究任务负责人/项目骨干
-·协助项目负责人进行项目管理
-·负责装配和激光焊工艺参数优化、工艺包开发和集成
+·2017 National Intelligent Robot Key Project
+·Industrial Manipulator based Production Line oriented Process planning Simulation and Offline Programming Software
+·Core member
+·Assist Project Leader in Project Management and Research Plan 
+·Parameters Optimization and Package Development for Assemble and Laser Welding
 ```
 
 ```markdown                
 2017.12-2019.07 
-·2017国家智能机器人专项
-·"基于数据驱动的工业机器人可靠性质量保障与增长技术"
-·课题联系人/项目骨干
-·协助课题负责人进行项目管理
-·负责机器人运动学可靠性分析
-·负责可靠性云平台设计开发
+·2017 National Intelligent Robot Key Project
+·"Data based Industrial Manipulator's Reliability Guarantee and Increase"
+·Core member
+·Assist Project Leader in Project Management and Research Plan 
+·Reliability Analyze of Industrial Manipulator
+·Cloud Platform of Reliability Design
 ```
 
 ```markdown                
 2018.07-2019.07 
-·2018国家质量基础的共性技术研究与应用重点专项
-·"多自由度系统位置与姿态过程控制计量关键技术研究"
-·项目骨干
+·2018 National Research and Apply of Common Technology in Quality
+·Key Technology of Position and Orientation Measure in rocess Control for Multi DoF System   
+·Core member
 ·Calibration Algorithm of Multi-DOF System Design
 ·Software Interface Design
 ```
@@ -171,7 +173,6 @@ National High-tech R&D Program (863 Program)
 # Honors
 
 ```markdown                
-2019.11 台州500精英
-2020.05 杭州E类人才
+2019.11 Taizhou 500 Elite
+2020.05 Class E Elite of Hangzhou
 ```
-
