@@ -94,8 +94,9 @@ National High-tech R&D Program (863 Program)
 ·Humanoid Style of Forehand/Backhand
 ·25 round with humanoid 
 ·[Show](http://v.youku.com/v_show/id_XMTM0MjEyNjcwNA==.html)
-·<img src="/tongling.jpg" width="100%">
+<img src="/tongling.jpg" width="100%">
 ```
+<img src="/tongling.jpg" width="100%">
                 
 ```markdown                
 2011.01-2013.07 
