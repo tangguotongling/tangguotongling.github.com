@@ -44,7 +44,10 @@
 
 ·C.-W. Zhong, J. Xiang, W. Wei, Y.-H. Zhang, P. Chen. Collision detection and safe reaction of manipulator based on disturbance observer[J]. Journal of Zhejiang University(Engineering Science Edition), 2012, 046(006):1115-1121.
 ```
-
+# Patents
+```
+Zhenggang Li,...Peng Chen. A trajectory optimization based robot vibration control system, CN207710798U[P]. 2018.
+```
 # Fields
 
 ```markdown
