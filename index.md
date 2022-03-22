@@ -174,6 +174,7 @@ National High-tech R&D Program (863 Program)
 ·Parallel Control of 8 devices
 ·Dedicated Offline Programming Language
 ```
+$x^2+y^2=z^2$
 
 # Honors
 
