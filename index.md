@@ -174,7 +174,9 @@ National High-tech R&D Program (863 Program)
 ·Parallel Control of 8 devices
 ·Dedicated Offline Programming Language
 ```
-$x^2+y^2=z^2$
+$$
+\varGamma(x)=\frac{\int_{\alpha}^{\beta}g(t)(x-t)^2\text{d}t}{\phi(x)\sum_{i=0}^{N-1}\omega_i}\tag{2}
+$$
 
 # Honors
 
